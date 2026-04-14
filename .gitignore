@@ -3,3 +3,11 @@ __pycache__/
 *.pkl
 *.tar.gz
 *.pyc
+.idea/
+out/
+*.pdf
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.synctex\(busy\)
